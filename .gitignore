@@ -1,9 +1,0 @@
-
-
-.idea
-__pycache__
-.venv
-db.sqlite3
-.env
-fairy_tail_api/migrtaions/0001_initial.py
-back_media
